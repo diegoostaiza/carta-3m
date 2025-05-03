@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Mostrar mensaje
         Swal.fire({
             title: 'Ha hecho que mi corazón este feliz!!',
-            text: 'Dentro de 9 días le llegara una reconfirmación de su desición!!',
+            text: 'Dentro de 9 días le llegara una reconfirmación de su decisión!!',
             icon: 'success',
             confirmButtonText: '¡Te amo !🌹'
         });
